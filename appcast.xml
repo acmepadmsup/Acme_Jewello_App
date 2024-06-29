@@ -2,6 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
      <item>
+      <title>Version 1.1.6</title>
+      <description>New release of the Jewello app.</description>
+      <pubDate>Saturday, 29 Jun 2024 00:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewello_app" sparkle:version="1.1.6" sparkle:os="android" />
+      <sparkle:minimumSystemVersion os="android">6.0</sparkle:minimumSystemVersion>
+    </item>
+     <item>
       <title>Version 1.1.5</title>
       <description>New release of the Jewello app.</description>
       <pubDate>Friday, 21 Jun 2024 00:00:00 +0000</pubDate>
