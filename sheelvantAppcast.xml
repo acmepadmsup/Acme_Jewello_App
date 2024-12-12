@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>   
+    <item>
+	    <title>Version 1.0.3</title>
+	    <description>New features and bug fixes for iOS.</description>
+	    <pubDate>Mon, 01 Mar 2024 15:20:13 +0000</pubDate>
+	    <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.3" sparkle:os="iOS"/>
+	    <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
+	    <title>Version 1.0.2</title>
+	    <description>New features and bug fixes for iOS.</description>
+	    <pubDate>Mon, 01 Mar 2024 15:20:13 +0000</pubDate>
+	    <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.2" sparkle:os="iOS"/>
+	    <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
+	    <title>Version 1.0.1</title>
+	    <description>New features and bug fixes for iOS.</description>
+	    <pubDate>Mon, 01 Mar 2024 15:20:13 +0000</pubDate>
+	    <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0.1" sparkle:os="iOS"/>
+	    <sparkle:minimumSystemVersion>17.0.0</sparkle:minimumSystemVersion>
+    </item>
+
+  </channel>
+</rss>
