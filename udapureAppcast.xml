@@ -3,8 +3,8 @@
   <channel>   
      <item>
       <title>Version 1.0.1</title>
-      <description>New Features Added in BHIMA GOLD Application.</description>
-      <pubDate>Saturday, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <description>New Features Added in Udapure Jewellers Application.</description>
+      <pubDate>Saturday, 12 March 2025 00:00:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.bhimaMadurai" sparkle:version="1.0.1" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
