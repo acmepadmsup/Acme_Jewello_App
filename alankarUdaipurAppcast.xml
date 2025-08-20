@@ -1,1 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel> 
+    <item>
+      <title>Version 1.0.1</title>
+      <description>New Features Added in ALANKAR JEWELLER Application.</description>
+      <pubDate>Wed, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.alankarUdaipur" sparkle:version="1.0.1" sparkle:os="android" />
+      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+    </item>
+      
 
+   
+  </channel>
+</rss>
