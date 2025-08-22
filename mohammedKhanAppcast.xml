@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>   
-
-<!--  <item>
-	    <title>Version 1.3.3</title>
+ 	<item>
+	    <title>Version 1.3.4</title>
 	    <description>New Features Added in Mohammed Khan Jewellers Application.</description>
-	    <pubDate>Tue, 13 Aug 2025 03:25:00 +0000</pubDate>
-	    <enclosure url="https://apps.apple.com/us/app/mohammed-khan-jewellers/id6740138738" sparkle:version="1.3.3" sparkle:os="iOS"/>
+	    <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+	    <enclosure url="https://apps.apple.com/us/app/mohammed-khan-jewellers/id6740138738" sparkle:version="1.3.4" sparkle:os="iOS"/>
 	    <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-    	</item> -->
-
+     </item>
      <item>
       <title>Version 1.2.8</title>
       <description>New Features Added in Mohammed Khan Jewellers Application.</description>
