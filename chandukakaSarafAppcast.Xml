@@ -3,6 +3,20 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
      <item>
+      <title>Version 1.3.3</title>
+      <description>New Features Added in Chandukaka Saraf Jewellers &amp; Diamonds Application.</description>
+      <pubDate>Sat 17 Dec 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.chandukakaSaraf" sparkle:version="1.3.3" sparkle:os="android" />
+      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+    </item>
+     <item>
+      <title>Version 1.3.3</title>
+      <description>New Features Added in Chandukaka Saraf Jewellers &amp; Diamonds Application.</description>
+      <pubDate>Sat 17 Dec 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://apps.apple.com/in/app/chandukaka-saraf-jewellers/id6756534397" sparkle:version="1.3.3" sparkle:os="android" />
+      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+    </item>
+     <item>
       <title>Version 1.3.1</title>
       <description>New Features Added in Chandukaka Saraf Jewellers &amp; Diamonds Application.</description>
       <pubDate>Mon 15 Dec 2025 00:00:00 +0000</pubDate>
