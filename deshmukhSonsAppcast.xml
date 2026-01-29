@@ -10,5 +10,12 @@
       <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.deshmukhSons" sparkle:version="1.3.0" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
+      <item>
+      <title>Version 1.0</title>
+      <description>New Features Added in CRD Jewellers &amp; Diamonds Application.</description>
+      <pubDate>Thu 29 Jan 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://apps.apple.com/in/app/crd-jewellers/id6757329997" sparkle:version="1.0" sparkle:os="android" />
+      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+    </item>
   </channel>
 </rss>
