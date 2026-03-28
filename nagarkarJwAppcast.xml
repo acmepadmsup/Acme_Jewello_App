@@ -2,12 +2,12 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-     <item>
-      <title>Version 1.3.1</title>
-      <description>New Features Added in Shripad Shankar Nagarakar Application.</description>
-      <pubDate>Sat 28 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/in/app/shripad-shankar-nagarakar/id6760280291" sparkle:version="1.3.1" sparkle:os="android" />
-      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+   <item>
+	    <title>Version 1.3.1</title>
+	    <description>New Features Added in Shripad Shankar Nagarakar Application.</description>
+	    <pubDate>Sat 26 Mar 2026 00:00:00 +0000</pubDate>
+	    <enclosure url="https://apps.apple.com/in/app/shripad-shankar-nagarakar/id6760280291" sparkle:version="1.3.1" sparkle:os="iOS"/>
+	    <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
     </item>
      <item>
       <title>Version 1.3.2</title>
@@ -24,11 +24,11 @@
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
      <item>
-      <title>Version 1.0</title>
-      <description>New Features Added in Shripad Shankar Nagarakar Application.</description>
-      <pubDate>Thu 12 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/in/app/shripad-shankar-nagarakar/id6760280291" sparkle:version="1.0" sparkle:os="android" />
-      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+	    <title>Version 1.0</title>
+	    <description>New Features Added in Shripad Shankar Nagarakar Application.</description>
+	    <pubDate>Thu 12 Mar 2026 00:00:00 +0000</pubDate>
+	    <enclosure url="https://apps.apple.com/in/app/shripad-shankar-nagarakar/id6760280291" sparkle:version="1.0" sparkle:os="iOS"/>
+	    <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
 </rss>
