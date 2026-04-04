@@ -6,7 +6,7 @@
       <title>Version 1.4.1</title>
       <description>New Features Added in Arundhati Jewellers Application.</description>
       <pubDate>Sat 04 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.arundhati" sparkle:version="1.4.0" sparkle:os="android" />
+      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.arundhati" sparkle:version="1.4.1" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
 	  <item>
