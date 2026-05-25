@@ -4,6 +4,17 @@
     <title>Acme Up2Date</title>
     <description>Updates for Acme Up2Date</description>
     <language>en</language>
+    
+    <item>
+      <title>Version 1.0.19</title>
+      <description>Bug fixes and performance improvements.</description>
+      <pubDate> Mon 25 May 2026 10:00:00 +0000</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=com.acme.fieldDeskApp"
+        sparkle:version="1.0.19"
+        sparkle:shortVersionString="1.0.19"
+        sparkle:os="android" />
+    </item>
 
     <item>
       <title>Version 1.0.18</title>
