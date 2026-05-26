@@ -6,13 +6,13 @@
     <language>en</language>
 
     <item>
-      <title>Version 1.0.21</title>
+      <title>Version 1.0.20</title>
       <description>Bug fixes and performance improvements.</description>
       <pubDate>tue 26 May 2026 10:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/in/app/acme-up2date/id6749063155"
-        sparkle:version="1.0.21"
-        sparkle:shortVersionString="1.0.21"
+        sparkle:version="1.0.20"
+        sparkle:shortVersionString="1.0.20"
         sparkle:os="ios" />
     </item>
     
