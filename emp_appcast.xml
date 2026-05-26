@@ -4,6 +4,17 @@
     <title>Acme Up2Date</title>
     <description>Updates for Acme Up2Date</description>
     <language>en</language>
+
+    <item>
+      <title>Version 1.0.21</title>
+      <description>Bug fixes and performance improvements.</description>
+      <pubDate>tue 26 May 2026 10:00:00 +0000</pubDate>
+      <enclosure
+        url="https://apps.apple.com/in/app/acme-up2date/id6749063155"
+        sparkle:version="1.0.21"
+        sparkle:shortVersionString="1.0.21"
+        sparkle:os="ios" />
+    </item>
     
     <item>
       <title>Version 1.0.19</title>
@@ -26,13 +37,15 @@
         sparkle:shortVersionString="1.0.18"
         sparkle:os="android" />
     </item>
+    
 
+    
     <item>
       <title>Version 1.0.18</title>
       <description>Bug fixes and performance improvements.</description>
       <pubDate>Sat, 16 May 2026 10:00:00 +0000</pubDate>
       <enclosure
-        url="https://apps.apple.com/app/idYOUR_IOS_APP_ID"
+        url="https://apps.apple.com/in/app/acme-up2date/id6749063155"
         sparkle:version="1.0.18"
         sparkle:shortVersionString="1.0.18"
         sparkle:os="ios" />
