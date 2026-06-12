@@ -12,7 +12,7 @@
 	  <item>
       <title>Version 1.4.2</title>
       <description>New Features Added in Hira Panna Jewellers Pvt Ltd Application.</description>
-      <pubDate>Sat 12 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri 12 Jun 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.HiraPannaJw" sparkle:version="1.4.2" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
