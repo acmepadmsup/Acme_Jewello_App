@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel> 
-	    <item>
-	    <title>Version 1.4.0</title>
-	    <description>New Features Added in TT Devassy Jewellery Application.</description>
-	    <pubDate>Wed 15 Jul 2026 00:00:00 +0000</pubDate>
-	    <enclosure url="https://apps.apple.com/by/app/tt-devassy-jewellery/id6740138650" sparkle:version="1.4.0" sparkle:os="iOS"/>
-	    <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-    </item>
-	  <item>
-      <title>Version 1.4.2</title>
-      <description>New Features Added in TT Devassy Jewellery Application.</description>
-      <pubDate>Tue 14 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.ttDevassy" sparkle:version="1.4.2" sparkle:os="android" />
-      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
-    </item>
 	  <item>
 	    <title>Version 1.3.9</title>
 	    <description>New Features Added in TT Devassy Jewellery Application.</description>
