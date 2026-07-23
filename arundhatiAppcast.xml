@@ -1,7 +1,14 @@
 
 <?xml version="1.0" encoding="UTF-8"?> 
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>  
+  <channel> 
+	  <item>
+	    <title>Version 1.4.3</title>
+	    <description>New features Addded in Arundhati Jewellers Application.</description>
+	    <pubDate>Thu 23 July 2026 00:00:00 +0000</pubDate>
+	    <enclosure url="https://apps.apple.com/in/app/arundhati-jewellers/id6747698298" sparkle:version="1.4.3" sparkle:os="iOS"/>
+	    <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+    </item>
 	<item>
       <title>Version 1.4.3</title>
       <description>New Features Added in Arundhati Jewellers Application.</description>
