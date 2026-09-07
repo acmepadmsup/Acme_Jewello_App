@@ -5,7 +5,7 @@
       <title>Version 1.3.0</title>
       <description>New Features Added in MAHENDRA JEWELLERS Application.</description>
       <pubDate>Mon 31 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.AtJwls" sparkle:version="1.3.0" sparkle:os="android" />
+      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.mahendraJw" sparkle:version="1.3.0" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
