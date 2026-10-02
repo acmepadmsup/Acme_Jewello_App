@@ -3,9 +3,16 @@
   <channel>
      <item>
       <title>Version 0.0.2</title>
-      <description>New Features Added in BASAV GOLD & DIAMOND LTD. Application.</description>
+      <description>New Features Added in CHALLANI JEWELLERY MART Application.</description>
       <pubDate>Tue 08 Sep 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.challaniJw" sparkle:version="0.0.2" sparkle:os="android" />
+      <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
+    </item>
+     <item>
+      <title>Version 0.0.3</title>
+      <description>New Features Added in CHALLANI JEWELLERY MART Application.</description>
+      <pubDate>Fri 02 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.acme.jewelloApp.challaniJw" sparkle:version="0.0.3" sparkle:os="android" />
       <sparkle:minimumSystemVersion os="android">7.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
